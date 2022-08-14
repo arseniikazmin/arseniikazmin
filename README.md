@@ -5,7 +5,7 @@
 * 📫 How to reach me:
   * Discord: morbfario#9584
   * E-mail: example@example.com
-* ⚡ Fun fact: each year around ~150 people die from falling coconuts white only 10 die from shark attacks
+* ⚡ Fun fact: each year around ~150 people die from falling coconuts while only 10 die from shark attacks
 * 🫡 Languages I know:
   * 😯 English
   * 😎🇺🇦 Ukrainian
