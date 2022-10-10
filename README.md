@@ -4,12 +4,12 @@
 * 🌱 I’m currently learning the C programming language.
 * 📫 How to reach me:
   * Discord: morbfario#9584
-  * E-mail: example@example.com
-* ⚡ Fun fact: each year around ~150 people die from falling coconuts while only 10 die from shark attacks
+  * Website: 127.0.0.1
+  * E-mail: yourname@example.com
+* ⚡ Fun fact: each year around ~150 people die from falling coconuts whilst only 10 die from shark attacks
 * 🫡 Languages I know:
-  * 😯 English
-  * 😎🇺🇦 Ukrainian
-  * 🤢 Russian
+  * 🇬🇧 English
+  * 🇺🇦 Ukrainian
   * 🇩🇪 German
-  * 😔 Python
-  * 🤓 C (beginner)
+  * 🤢 Russian
+  * 🤓 Python & C (beginner)
